@@ -109,4 +109,4 @@ Standard LLMs hallucinate when asked about specific documents they haven't seen.
 
 ## Author
 
-Tejasv Rathore — [GitHub](https://github.com/Tejasv1910)
+Tanishq shrivastava — [GitHub](https://github.com/tanishqx05)
